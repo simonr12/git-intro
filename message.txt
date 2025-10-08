@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-messsage from main branch
-=======
+
 message from feature branch
